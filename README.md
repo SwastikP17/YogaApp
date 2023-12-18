@@ -40,9 +40,13 @@ The project utilizes a actual backend. The form submission simulates sending dat
 
 ## Possible Improvements
 
-- Implement actual backend integration for data storage and processing.
 - Enhance form validation and error handling.
 - Improve UI/UX with additional features like user authentication, user dashboard, etc.
+- We can also integrate the payment gateway for the registration of the user for the yoga class.
+
+## ER-Diagram
+<img width="436" alt="image" src="https://github.com/SwastikP17/YogaApp/assets/77966361/d9e7fdf4-170f-470f-947d-987b532175a9">
+
 
 ## Author
 
